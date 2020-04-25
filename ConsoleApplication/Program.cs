@@ -9,7 +9,7 @@ namespace ConsoleApplication
             string name = "Nate Brown";
             string location = "Utah";
 
-            Console.WriteLine($"{"My name is "}{name}");
+            Console.WriteLine($"{"My name is "}{name}.");
             Console.WriteLine($"{"I am from "}{location}");
 
             DateTime theDate = new DateTime(2020, 4, 24, 0, 0, 0);
